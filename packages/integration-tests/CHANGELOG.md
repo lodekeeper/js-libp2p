@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.5](https://github.com/libp2p/js-libp2p/compare/integration-tests-v1.1.4...integration-tests-v1.1.5) (2026-03-02)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @libp2p/bootstrap bumped from ^12.0.12 to ^12.0.13
+    * @libp2p/interface-compliance-tests bumped from ^7.0.12 to ^7.0.13
+    * @libp2p/mdns bumped from ^12.0.12 to ^12.0.13
+    * @libp2p/mplex bumped from ^12.0.12 to ^12.0.13
+    * @libp2p/webtransport bumped from ^6.0.13 to ^6.0.14
+    * libp2p bumped from ^3.1.4 to ^3.1.5
+
 ## [1.1.4](https://github.com/libp2p/js-libp2p/compare/integration-tests-v1.1.3...integration-tests-v1.1.4) (2026-02-25)
 
 

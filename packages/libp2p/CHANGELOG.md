@@ -110,6 +110,13 @@
     * @libp2p/tcp bumped from ^9.0.14 to ^9.0.15
     * @libp2p/websockets bumped from ^8.0.14 to ^8.0.15
 
+## [3.1.5](https://github.com/libp2p/js-libp2p/compare/libp2p-v3.1.4...libp2p-v3.1.5) (2026-03-02)
+
+
+### Bug Fixes
+
+* setMaxConnections uses func arg in comparison  ([#3389](https://github.com/libp2p/js-libp2p/issues/3389)) ([8f0e1b2](https://github.com/libp2p/js-libp2p/commit/8f0e1b2db58bcabd7422a02cd961a172b8934500))
+
 ## [3.1.4](https://github.com/libp2p/js-libp2p/compare/libp2p-v3.1.3...libp2p-v3.1.4) (2026-02-25)
 
 

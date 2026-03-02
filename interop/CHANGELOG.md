@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.14](https://github.com/libp2p/js-libp2p/compare/transport-interop-libp2p-main-v1.0.13...transport-interop-libp2p-main-v1.0.14) (2026-03-02)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @libp2p/mplex bumped from ^12.0.12 to ^12.0.13
+    * @libp2p/webtransport bumped from ^6.0.13 to ^6.0.14
+    * libp2p bumped from ^3.1.4 to ^3.1.5
+
 ## [1.0.13](https://github.com/libp2p/js-libp2p/compare/transport-interop-libp2p-main-v1.0.12...transport-interop-libp2p-main-v1.0.13) (2026-02-25)
 
 
